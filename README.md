@@ -8,6 +8,7 @@ src:-https://dotnettutorials.net/lesson/tuples-in-python/
 
 ## File Modes in Python🐍
 
-![file](https://user-images.githubusercontent.com/67586773/104689207-20785f00-5728-11eb-9621-16b918f5cdc5.png)
+![file2](https://user-images.githubusercontent.com/67586773/104689438-84028c80-5728-11eb-97cf-7cf8882c157c.png)
+
 
 src:- https://www.datacamp.com/community/tutorials/reading-writing-files-python
