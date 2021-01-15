@@ -15,6 +15,6 @@ src:- http://net-informations.com/python/file/default.htm
 
 ## if-else flow chart
 
-![ifelse](https://user-images.githubusercontent.com/67586773/104689572-bf9d5680-5728-11eb-8f35-f1b7525e59fb.png)
+![ifelse](https://user-images.githubusercontent.com/67586773/104689765-1efb6680-5729-11eb-8868-05db14dba8af.png)
 
-src:- https://intellipaat.com/blog/tutorial/python-tutorial/python-if-else-statements/
+src:- https://www.educba.com/if-else-in-python/
