@@ -12,3 +12,7 @@ src:-https://dotnettutorials.net/lesson/tuples-in-python/
 
 
 src:- http://net-informations.com/python/file/default.htm
+
+## if-else 
+
+![ifelse](https://user-images.githubusercontent.com/67586773/104689572-bf9d5680-5728-11eb-8f35-f1b7525e59fb.png)
