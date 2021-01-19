@@ -22,3 +22,8 @@ src:- https://www.educba.com/if-else-in-python/
 ## while-loop flow chart
 
 ![flow-chart-while-loop](https://user-images.githubusercontent.com/67586773/105038967-fe634180-5a85-11eb-8f2f-87be0ff80433.jpg)
+
+
+## for-loop flow chart
+
+![forLoop](https://user-images.githubusercontent.com/67586773/105038972-ff946e80-5a85-11eb-8d3d-1e50a1eb4636.jpg)
