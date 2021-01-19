@@ -18,3 +18,7 @@ src:- http://net-informations.com/python/file/default.htm
 ![ifelse](https://user-images.githubusercontent.com/67586773/104689765-1efb6680-5729-11eb-8868-05db14dba8af.png)
 
 src:- https://www.educba.com/if-else-in-python/
+
+## while-loop flow chart
+
+![flow-chart-while-loop](https://user-images.githubusercontent.com/67586773/105038967-fe634180-5a85-11eb-8f2f-87be0ff80433.jpg)
