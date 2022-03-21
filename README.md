@@ -6,12 +6,7 @@
 
 src:-https://dotnettutorials.net/lesson/tuples-in-python/
 
-## File Mode in Python🐍
 
-![file2](https://user-images.githubusercontent.com/67586773/104689438-84028c80-5728-11eb-97cf-7cf8882c157c.png)
-
-
-src:- http://net-informations.com/python/file/default.htm
 
 ## if-else flow chart
 
